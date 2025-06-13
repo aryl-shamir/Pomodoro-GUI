@@ -69,7 +69,7 @@ LONG_BREAK_MIN = 20
 
 ## Author
 
-Made by [Your Name] — inspired by the Pomodoro productivity method.
+Made by aryl-shamir — inspired by the Pomodoro productivity method from Angela course on 100 days code.
 
 ---
 
